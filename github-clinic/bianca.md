@@ -14,11 +14,13 @@ Note: In the browser, GitHub will suggest "Update file.md" as the commit message
 
 ## Task 2: Practice Markdown 
 
-Now let's practice Markdown and commit another edit to this file. 
+Now let's practice **Markdown** and commit another edit to this file. 
 
-This file is written in Markdown, which formats text on the web. For example, with Markdown:
+This file is written in *Markdown*, which formats text on the web. For example, with Markdown:
 
 We can make words **bold** or *italic*.
+
+Or do both with ***test***
 
 ### We can make headers.
 

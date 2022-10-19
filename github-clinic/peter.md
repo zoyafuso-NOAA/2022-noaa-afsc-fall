@@ -35,6 +35,8 @@ Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmer
 
 *Note that we've also made a indented quote block with the `>` symbol*
 
+> Access the [Marine Mammal Laboratory](https://www.fisheries.noaa.gov/about/marine-mammal-laboratory) to learn more about our staff and research!
+
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. For example: 
 
 ![](../horst-champions-trailhead.png)

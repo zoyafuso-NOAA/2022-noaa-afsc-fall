@@ -42,3 +42,15 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
+
+## This is a new section
+### This is a new subheader
+
+Here are the things I want to do on **github**:
+
+1. first
+2. second
+3. third
+
+And that will be *all*.
+
